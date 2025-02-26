@@ -1,0 +1,335 @@
+{
+  "gap": {
+    "opciones": {
+        "Direccion general": {
+          "subopciones": {
+            "Avales": {
+              "sub-subopciones": {
+                "Cuanto tiempo antes tengo que mandar el aval de un evento?": {
+                  "respuesta": "Lo ideal es que se mande con un  mes de anticipacion del evento"
+                },
+                "Cuando se aprueban los avales de los eventos?": {
+                  "respuesta": "Los avales se revisan y se aprueban con Diego Osorio todos los miercoles"
+                }
+              }
+            },
+            "Reglamento y estatutos": {
+              "sub-subopciones": {
+                "Donde puedo encontrar los estatutos y el reglamento?": {
+                  "respuesta": "No te preocupes, aca te mando el link tanto del reglamento como de los estatutos del grupo (agregar links)"
+                }
+              }
+            },
+            "Capacitacion para directores generales": {
+              "sub-subopciones": {
+                "Cuando es la capacitacion para directores generales": {
+                  "respuesta": "La capacitacion para directores generales sera el sabado 20 de Febrero a las 8am en el 38-110"
+                }
+              }
+            }
+          }
+        },
+        "Direccion logistica": {
+          "subopciones": {
+            "Reserva espacios abiertos": {
+              "sub-subopciones": {
+                "¿Como puedo reservar un espacio abierto?": {
+                  "respuesta": "Para reservar un espacio abierto debes hacer un correo para reservagruposyrepres@eafit.edu.co, con copia a la OE (No se te olivde esto pls) y no se te olivde usar la plantilla de reservas abiertos que esta en la carpetas de directores logisticos. Si necesitas mas informacion o un paso a paso mas detallado, aca te dejo el link del manual logistico donde vas a encontrar un paso a paso mas detallado: \n https://eafit-my.sharepoint.com/:b:/g/personal/oe_eafit_edu_co/EWBWBepzV4ZJoqZQnzAaTnwBIBz26uoRd0E5_dQDLzaeIA?e=LFmKqO"
+                },
+                "¿Como puedo ver la disponibilidad de un espacio abierto?": {
+                  "respuesta": "Esta informacion deberia estar en la carpeta de Directores Logísticos en la parte de Disponibilidades, si algo no te funciona no dudes en preguntarle a Juanse para que te ayude"
+                },
+                "Como se cuales son los espacios abiertos que se pueden reservar": {
+                  "respuesta": "Los espacios abiertos que se pueden reservar son: \n 1. Laboratorio Financiero \n 2. Laboratorio financiero 2 \n 3. Plazoleta del 29 \n 4. Plazoleta del Estudiante \n 5. Propileos \n 6. Terraza del 29 \n 7. Agora \n 8. Ceiba (El arbol enorme que queda entre el bloque 26 y el 3) \n 9. Plazoleta del bloque 20 \n 10. Pimientos \n 11. Plazoleta del bloque 38 \n 12. Domo \n Si quieres ver en detalle cada lugar, puedes acceder al manual logistico, donde hay una foto de todos los lugares que te acabo de mencionar para que mires cual es el mas indicado"
+                },
+                "¿Con cuanto tiempo tiempo de antelacion debo hacer una reserva de un espacio abierto?": {
+                  "respuesta": "Lo ideal es que la reserva de un espacio abierto se haga con 3 semanas de anticipacion al evento, para que asi tengas tiempo suficiente para que te confirmen el espacio y tener tiempo suficiente en caso de que se necesites un plan b"
+                },
+                "¿Tengo alguna restriccion al momento de reservar un espacio ?": {
+                  "respuesta": "Nop, para realizar reserva no tienes ninguna restricción, pero si te recomiendo que antes de hacer una reserva revises si el aval del evento esta aprobado, para que asi el evento ya este confirmado"
+                }              
+            }
+          },
+            "Reserva de requerimientos": {
+              "sub-subopciones": {
+                "¿Con cuanto tiempo de antelacion tengo que mandar la reserva de requerimientos para un evento?": {
+                  "respuesta": "Los requerimientos para un evento se tienen que mandar 2 semanas antes, para que asi a planta les de tiempo de analizar el caso y pedir los requerimientos necesarios. Si lo haces muy  encima del evento es posible que te quedes sin las cosas que pediste"
+                },
+                "¿Que se puede reservar como requerimientos en planta fisica?": {
+                  "respuesta": "En planta fisíca lo que puedes pedir como requerimiento son sillas, mesas y carpas. Ya en el momento del evento ellos tambien son los que te prestan las extensiones en caso de que necesites"
+                },
+                "¿Que se puede reservar como requerimiento en centro multimedial?": {
+                  "respuesta": "En centro multimedial puedes reservar cosas como: camaras, microfonos, microfonos de solapa y cosas asi. Te recomiendo ir a preguntar por que la verdad tienen muchas cosas, queda en el 38 primer piso a la izquierda"
+                },
+                "¿Que se puede reservar como requerimiento en aulas y equipos?": {
+                  "respuesta": "En aulas y equipos puedes pedir como requerimiento televisores, microfonos (por lo general solo para los salones de los bloques 27,38 y 19) y cables HDMI o entradas raras"
+                },
+                "¿Como se hace una reserva de requerimientos?": {
+                  "respuesta": "Tienes que mandar un correo para @reservasgruposyrepres. En este correo vas a usar la plantilla para requerimientos que podras encontrar en la carpeta de directores logísticos (OneDrive)"
+                }
+              }
+            },
+            "Reserva de salones y auditorios": {
+              "sub-subopciones": {
+                "¿Como puedo reservar un salon?": {
+                  "respuesta": "Para que te quede mas facil, aca te dejo un tutorial de como hacer una reserva de salon:\n https://eafit-my.sharepoint.com/:v:/g/personal/oe_eafit_edu_co/EUQ52bWpfrZCppeNwwkjOfwB71NYbvm92rOUs58Ueiqqdw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ye9VJ2"
+                },
+                "¿Como puedo reservan un auditorio?": {
+                  "respuesta": "La reserva de auditorios solo la puede realizar el VP administrativo, asi que le puedes escribir a el con la fecha y hora de la reserva"
+                },
+                "¿Desde cuando se pueden hacer reservas de salones?": {
+                  "respuesta": "Se pueden hacer desde cualquier momento usando la aplicacion de Power Apps de reservas aulas."
+                },
+                "¿Desde cuando se pueden hacer reservas de auditorios?": {
+                  "respuesta": "Las reservas de auditorios solamente las puede realizar el Vicepresidente Administrativo, si necesitas un auditorio para un evento le puedes escribir al siguiente numero: 3194182557"
+                },
+                "¿Desde cuando se puede tener una reserva de salon para todo un semestre?": {
+                  "respuesta": "Las reservas semestrales se empezaran a hacer la semana del 17 de febrero, estas reservas solo las puede hacer el Vicepresidente Administrativo, no se te olvide llenar el excel de reserva de salones con el horario de la reunion de tu comité y la frecuencia de estas"
+                }
+              }
+            },
+            "Reserva activos de la OE": {
+              "sub-subopciones": {
+                "¿Donde encuentro el inventario con los activos de la OE?": {
+                  "respuesta": "El inventario lo vas a poder encontrar en la carpeta de directores logísticos, pero para que te sea mas facil aca te dejo el link: https://eafit-my.sharepoint.com/:x:/g/personal/oe_eafit_edu_co/ETPRA-zW8plMkRAibKjRDjYB_vi8-5SdKMbrN33_kgr2_A?e=p4Cx22"
+                },
+                "¿Como se pueden reservar los activos de la OE?": {
+                  "respuesta": "Los activos de la OE se reservan con el excel de manejo de inventario, aca te dejo el link por si lo necesitas: https://eafit-my.sharepoint.com/:x:/g/personal/oe_eafit_edu_co/ETPRA-zW8plMkRAibKjRDjYB_vi8-5SdKMbrN33_kgr2_A?e=p4Cx22"
+                }
+              }
+            },
+            "Bambbu": {
+              "sub-subopciones": {
+                "¿Con cuanto tiempo de antelacion tengo que mandar el formato de bambbu?": {
+                  "respuesta": "El plazo maximo para mandar el bambbu es un dia antes del evento hasta las 12:00 pm, si tienes dudas no dudes es preguntarle a Juanse "
+                },
+                "¿Que se puede reclamar como refrigerio o almuerzo en los diferentes restaurantes?": {
+                  "respuesta": "link del menu de los restaurantes"
+                },
+                "¿Se pueden acumular refrigerios o almuerzos??": {
+                  "respuesta": "Nop, lo siento mucho pero la comida es solo por el dia que te la recargaron, si no la reclamas ese dia es como si se perdiera y seria triste"
+                },
+                "¿Como reservo un bafle?": {
+                  "respuesta": "Nop, lo siento mucho pero la comida es solo por el dia que te la recargaron, si no la reclamas ese dia es como si se perdiera y seria triste"
+                }  
+              }
+            }, 
+            "Manual  del logístico": {
+              "sub-subopciones": {
+                "¿Donde puedo encontrar el manual de directores logísticos?": {
+                  "respuesta": "No te preocupes, aca te mando el link del manual para que puedas resolver la duda que necesites: https://eafit-my.sharepoint.com/:b:/g/personal/oe_eafit_edu_co/EWBWBepzV4ZJoqZQnzAaTnwBIBz26uoRd0E5_dQDLzaeIA?e=LFmKqO"
+                }
+              }
+            }  
+          }
+        },
+    "Direccion de Publicidad": {
+          "subopciones": {
+            "Aprobacion de posts": {
+              "sub-subopciones": {
+                "¿Como se aprueban los posts": {
+                  "respuesta": "Se los tienes que mandar a la VP de comunicaciones y publicidad."
+                },
+                "¿Cuando se pueden publicar los posts?": {
+                  "respuesta": "Cuando el aval este aprobado."
+                }
+              }
+            },
+            "Capacitacion de publicidad": {
+              "sub-subopciones": {
+                "¿Cuando es la capacitacion": {
+                  "respuesta": "La capacitacion para directores de publicidad sera el sabado 20 de Febrero a las 8am en el 38-110"
+                },
+                "¿Tengo que llevar computador?": {
+                  "respuesta": "Claramente"
+                }
+              }
+            }
+  
+          }
+        },
+        "Direccion de Mercadeo": {
+          "subopciones": {
+            "Documentos": {
+              "sub-subopciones": {
+                "¿Qué necesito si la marca es una persona jurídica?": {
+                  "respuesta": "Necesitas RUT del año actual. Cámara de comercio con máximo 3 meses de expedición y cédula del representante legal."
+                },
+                "¿Qué necesito si la marca es una persona natural?": {
+                  "respuesta": "Necesitas RUT del año actual y cédula del representande legal."
+                },
+                "¿Si la marca no posee RUT puede participar?": {
+                  "respuesta": "No, desde desarrolllo estudiantil se le exije a la marca que para poder participar debe poseer RUT. Este docuemnto describe la razón socual de la marca y esto es importante para la Universidad."
+                },
+                "¿Cómo hacer la minuta? ": {
+                  "respuesta": "Comunícate con el Vicepresidente o con tu acompañante del CAE, cualquiera te ayudará a hacerla."
+                }
+              }
+            },
+            "Información": {
+              "sub-subopciones": {
+                "¿Puedo acceder a la base de datos?": {
+                  "respuesta": "No, actualmente, no se contempla una base de datos para que los comités usen. SIN EMBARGO, si necesitas ayuda para contactar marcas, puedes contactar al Vicepresidente o a tu acompañante del CAE."
+                },
+                "¿Puedo conseguir patrocinios sin minutas? ": {
+                  "respuesta": "No, no puedes hacer patrocinios sin minuta. Todo debe ser legal y avalado por la Universidad "
+                },
+                "¿Qué es la minuta?": {
+                  "respuesta": "La minuta es el contraro que se hace junto con la marca que participará del evento. Es muy importante puesto que esta nos ayuda a tener certeza que la marca si cumplirá con lo que se pactó, en caso tal de que no cumpla, este documento servirá para abrir temas legales con la marca y pagará una multa de 1 smlv (OJO. La minuta funciona igual si el comité no cumple con lo que se le pactó a la marca. La marca puede abrir temas legales hacía el grupo) "
+                },
+                "¿Qué NO puedo traer?": {
+                  "respuesta": "Los patrocinios que promuevan licor, cigarrillos, energizantes, discotecas, moteles, bares, agua, lencería. No se pueden vender alimentos "
+                }
+              }
+            },
+            "Procesos": {
+              "sub-subopciones": {
+                "¿Puedo recibir productos de la marca sin la minuta firmada?": {
+                  "respuesta": "No. No puedes recibir nada de la marca si la minuta no está firmada."
+                },
+                "¿Cómo contacto marcas?": {
+                  "respuesta": "Para contactar marcas, es importante saber que quieres para el evento."
+                },
+                "¿Qué hago si una marca antes de firmar me deja de responder?": {
+                  "respuesta": "En caso de que la marca se desaparezca a último momento sin la minuta firmada, lo ideal es que se intente establecer nuevamente comnunicación con la marca  para buscar una respuesta sobre si sí quiere participar o si no. Un consejo, al momento de contactar marcas, intenta que la minuta se firme lo más rápido posible, evalúa muy bien los tiempos para tener marcas alternativas del producto que necesites para el evento."
+                },
+                "¿Cómo debe ser el procedimiento para conseguir patrocinios?": {
+                  "respuesta": "Primero, necesitas tener claro junto con tu mesa directiva qué necesitan y lo que quieren por parte de patrocinios. Al tener claro que es lo que se quiere para el evento, se buscan marcas que entren dentro de lo que se busca y se les manda un mensaje de acercamiento en donde se le cuente un poco sobre quien eres, de dónde le escribes y para qué le escribes. La marca puede ser contactada por correo, instagram, whatsapp, Después de ese primer acercamiento, lo ideal es que al tener una respuesta, se opté directamente por tener una reunión ya sea presencial o virtual en donde hablen sobre lo el evento, las formas de aliarse con la universidad y formas de participación en el evento. Después se entra a negociar con respecto a la propuesta que se plantee a la marca. Por último, se debe hacer el tramite de la minuta. Una vez aprobada, se debe cumplir con lo que se pacte para la marca."
+                },
+                "¿Quién debe firmar la minuta?": {
+                  "respuesta": "La minuta la firma únicamente el Vicepresidente. El director únicamente debe hacer la minuta."
+                },
+                "¿Cómo funcionan los patrocinios con dinero?": {
+                  "respuesta": "Los patrocinios en dinero, funcionan de dos maneras. Con crédito, la Universidad emite la factura electrónica antes de que la marca haga el pago, únicamente funciona con personas jurídicas, además que se debe hacer un estudio de crédito donde se evalúa la viabilidad, solo se permite el pago después de 30 días de emitir la factura. A contado, Es cuando la marca hace el pago luego la Universidad emite factura electrónica, funciona tanto para personas naturales como jurídicas.  OJO. El dinero se consigna a una cuenta de la universidad y se debe hacer la minuta específica de dinero, una vez firmada se puede hacer la consignación. El dinero que se recibe únicamente se puede utilizar en proveedores de la U, NO se puede utilizar en proveedores externos."
+                },
+                "¿Cuánto tiempo tengo para firmar la minuta?": {
+                  "respuesta": "Debe subir la carpeta al drive con minímo 15 días de anticipación."
+                },
+                "¿Qué necesito para una donación?": {
+                  "respuesta": "Necesitas llenar el formato de carta de donación. La cámara de comercio (fecha de expedición inferios a 3 meses), RUT, cédula de representante legal. Solicitar a la empresa la entrega de la factura original a nombre de la Universidad. En caso tal de que sea donación en dinero, solicitar a la empresa soporte de la transacción."
+                }
+              }
+            }
+  
+          }
+        },
+        "Direccion de Finanzas": {
+          "subopciones": {
+            "Presupuesto": {
+              "sub-subopciones": {
+                "¿Cuando se aprueba el presupuesto?": {
+                  "respuesta": "A inicios de febrero."
+                },
+                "¿Puedo pedir mas presupuesto?": {
+                  "respuesta": "NAO NAO"
+                }
+              }
+            },
+            "Reasingaciones": {
+              "sub-subopciones": {
+                "¿Con cuanto tiempo de anticipacion se puede hacer una reasignacion?": {
+                  "respuesta": " Lo ideal es que se haga con una semana de anticipacion al evento"
+                },
+                "¿Puedo hacer reasignaciones sin el aval aprobado?": {
+                  "respuesta": "DM al VP."
+                }
+              }
+            },
+            "Proveedores": {
+              "sub-subopciones": {
+                "¿Cuales son los proveedores de la universidad": {
+                  "respuesta": "Lññlakfjñalskajñlsdkf"
+                },
+                "Algo 2": {
+                  "respuesta": "no me acu3erdo la verdad"
+                }
+              }
+            }
+  
+          }
+        },
+        "Direccion de Gestion Humana": {
+          "subopciones": {
+            "Tabla de permanencia": {
+              "sub-subopciones": {
+                "¿En qué estado debe estar mi tabla de permanencia en este momento?": {
+                  "respuesta": "Los porcentajes deben estar repartidos por eventos, los miembros deben estar en las diferentes categorías y debe haber sido socializada con el comité."
+                },
+                "¿Cuánto porcentaje debe cumplir cada miembro dependiendo de su estado?": {
+                  "respuesta": "Miembros activos deben cumplir el 60%, miembros en periodo de prueba o nuevos el 80%, miembros de transferencia interna el 70% y miembros especiales u honorarios no deben cumplir porcentaje."
+                },
+                "¿Cómo puede alguien quedar en periodo especial?": {
+                  "respuesta": "Enviando el soporte que justifique el por qué no podría cumplir con porcentaje este semestre (trabajo, intercambio, etc...)"
+                },
+                "¿Quién pone la asistencia a asambleas?": {
+                  "respuesta": "El GH de cada comité está en la responsabilidad de consignar si la persona asistió o no a asamblea y si asistió a más de 1. Sin embargo, las excusas de no asistencia a asamblea deben enviarse a oe@eafit.edu.co"
+                }
+              }
+            },
+            "Aval de GH": {
+              "sub-subopciones": {
+                "¿Dónde puedo encontrarlo?": {
+                  "respuesta": "En la descripción del grupo de GH's, o en https://eafit-my.sharepoint.com/:w:/g/personal/oe_eafit_edu_co/Eavsgf8dYQ5Ch6ggF7lIAwwBImeWu-3HQoeMtfdr0zfbaQ?e=BZc2dy"
+                },
+                "¿Con cuánto tiempo de anticipación debo enviarlo a la Vicepresidencia de Gestión Humana?": {
+                  "respuesta": "Con 4 días HÁBILES de anticipación"
+                },
+                "¿A qué medio debo enviar este aval?": {
+                  "respuesta": "Al correo oe@eafit.edu.co"
+                }
+              }
+            },
+            "Cartas": {
+              "sub-subopciones": {
+                "¿Dónde puedo encontrar la carta para renunciar a un cargo?": {
+                  "respuesta": "En la descripción del grupo de GH's, o en https://eafit-my.sharepoint.com/:w:/g/personal/oe_eafit_edu_co/ERKcCHDZtLFNlSq4Zecr_M4Bx68eFf4b749v4BsM3lzEFw?e=je1NMW"
+                },
+                "¿Dónde puedo encontrar la carta para retirarse por voluntad propia de la OE?": {
+                  "respuesta": "En la descripción del grupo de GH's, o en https://eafit-https://eafit-my.sharepoint.com/:w:/g/personal/oe_eafit_edu_co/ERKcCHDZtLFNlSq4Zecr_M4Bx68eFf4b749v4BsM3lzEFw?e=je1NMW"
+                }
+              }
+            },
+            "Memorandos o faltas": {
+              "sub-subopciones": {
+                "¿Dónde puedo encontrar la carta para realizar un llamado de atención, falta leve o falta grave?": {
+                  "respuesta": "En la descripción del grupo de GH's, o en https://eafit-my.sharepoint.com/:f:/g/personal/oe_eafit_edu_co/Es0xYCdNMGtKiQXncrwQObUBImrS1ubw_mFsWJWWKIW0pg?e=Dfdif2"
+                },
+                "¿Puedo realizar un llamado de atención sin autorización de la Vicepresidencia de Gestión Humana?": {
+                  "respuesta": "Sí, siempre y cuando esté soportado por el reglamento y se envíe con copia al correo de la OE para realizar seguimiento de las faltas de cada miembro desde la Vicepresidencia."
+                },
+                "¿Puedo realizar una falta leve o grave sin autorización de la Vicepresidencia de Gestión Humana?": {
+                  "respuesta": "No, estas faltas siempre deben tener como preliminar el debido proceso, por lo que para imponerlas se debe contar primero con un proceso de descargos de la mano de la Vicepresidencia de Gestión Humana"
+                }
+              }
+            },
+            "Capacitacion de GH": {
+              "sub-subopciones": {
+                "¿Cuando es la capacitacion para comítes?": {
+                  "respuesta": "La capacitacion para directores de GH sera el sabado 20 de Febrero a las 8am en el 38-110."
+                },
+                "¿Cuando es la capacitaíon para macroeventos?": {
+                  "respuesta": "La capacitacion para directores de GH sera el jueves 29 de Marzo a las 6pm en el 29-201."
+                }
+              }
+            }
+  
+          }
+        },
+  
+        "Asambleas": {
+          "subopciones": {
+            "Actas creativas": {
+              "respuesta": "Aca te dejo el link del privado de la OE, donde vas a poder encontrar las actas didacticas.\n https://www.instagram.com/oeestoesprivado/"
+            },
+            "Actas formales": {
+              "respuesta": "Aca te mando el link del one drive donde vas a poder encontrar todas las actas formales de lo que se lleva del año. \n https://eafit-my.sharepoint.com/:f:/g/personal/oe_eafit_edu_co/Ep1qdxsjivFPqIjWrmnFlvMBkdkyqV6WfTF23MM59J_rNg?e=bmlOgC"
+            }
+  
+          }
+        }
+  
+  
+      }
+    }
+  }
+  
