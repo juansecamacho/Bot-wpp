@@ -3,27 +3,46 @@
     "opciones": {
         "Direccion general": {
           "subopciones": {
-            "Avales": {
+            "Informes": {
               "sub-subopciones": {
-                "Cuanto tiempo antes tengo que mandar el aval de un evento?": {
-                  "respuesta": "Lo ideal es que se mande con un  mes de anticipacion del evento"
+                "¿Cuando se envían los informes de evento?": {
+                  "respuesta": "Los Informes de evento se envían a final de cada mes (el último día)"
                 },
-                "Cuando se aprueban los avales de los eventos?": {
-                  "respuesta": "Los avales se revisan y se aprueban con Diego Osorio todos los miercoles"
+                "¿Tengo que hacer informe de gestión?": {
+                  "respuesta": "Si, a final del año todos los comités deben diligenciar el formato de informe de gestión "
                 }
               }
             },
-            "Reglamento y estatutos": {
+            "Eventos": {
               "sub-subopciones": {
-                "Donde puedo encontrar los estatutos y el reglamento?": {
-                  "respuesta": "No te preocupes, aca te mando el link tanto del reglamento como de los estatutos del grupo (agregar links)"
+                "¿Cuando se tiene que enviar el aval?": {
+                  "respuesta": "Los avales se deben enviar al correo de la oe, antes de las 9 de la noche del lunes dos semana previas al evento (como máximo plazo) "
+                },
+                "¿Cómo hago eventos con inscripción?": {
+                  "respuesta": "Junto a finanzas debes estar pendiente de en qué desean utilizar el dinero y luego con desarrollo se plantea cómo se puede recoger el dinero, en la mayoría de los casos se puede a través de una plataforma de la Universidad"
                 }
               }
             },
-            "Capacitacion para directores generales": {
+            "Comité": {
               "sub-subopciones": {
-                "Cuando es la capacitacion para directores generales": {
-                  "respuesta": "La capacitacion para directores generales sera el sabado 20 de Febrero a las 8am en el 38-110"
+                "¿Puedo echar gente del comité?": {
+                  "respuesta": "Los procesos de la permanencia en el grupo son función de gestión humana y en cada escenario se debe seguir el debido proceso "
+                }
+              }
+            },
+            "Documentos Importantes": {
+              "sub-subopciones": {
+                "¿Dónde están mis funciones y la de los demás cargos?": {
+                  "respuesta": "En la carpeta de directores generales encuentras los estatutos con tus funciones y encuentras los manuales de cada cargo"
+                },
+                "¿Dónde encuentro el formato de aval?": {
+                  "respuesta": "En la carpeta de directores generales que está en la descripción del grupo de Whatsapp encuentras la carpeta con formatos"
+                },
+                "¿Dónde encuentro el formato de informe de gestión?": {
+                  "respuesta": "En la carpeta de directores generales que está en la descripción del grupo de Whatsapp encuentras la carpeta con formatos"
+                },
+                "¿Dónde encuentro el formato de informe de evento?": {
+                  "respuesta": "En la carpeta de directores generales que está en la descripción del grupo de Whatsapp encuentras la carpeta con formatos"
                 }
               }
             }
@@ -125,23 +144,32 @@
         },
     "Direccion de Publicidad": {
           "subopciones": {
-            "Aprobacion de posts": {
+            "Directores": {
               "sub-subopciones": {
-                "¿Como se aprueban los posts": {
-                  "respuesta": "Se los tienes que mandar a la VP de comunicaciones y publicidad."
+                "¿Donde encuentro los  logos de mi comité?": {
+                  "respuesta": "En este link: \n https://eafit-my.sharepoint.com/:f:/g/personal/oe_eafit_edu_co/EqlBLWYVUq5MmJ2ttoZuAZwBwdh_u5dbz7-Pea_O_GAYNg?e=OKAfdi"
                 },
-                "¿Cuando se pueden publicar los posts?": {
-                  "respuesta": "Cuando el aval este aprobado."
+                "¿Donde esta el manual de Directores Publi 2025?": {
+                  "respuesta": "En este link: \n https://eafit-my.sharepoint.com/:f:/g/personal/oe_eafit_edu_co/EpgdWEkgCkRBjxFnEV_0CkcBu1-_Y65l1zb4XseCrLJAOg?e=F9iZ2e(Aquí también encontraras el manual de marca de la OE para 2025- como link y como PDF- y como capacitaciones)"
+                },
+                "¿Cuantas piezas tengo que tener aprobadas antes de empezar a subir libremente?": {
+                  "respuesta": "Las piezas gráficas tienen que ser 3, donde se revisara más que todo logos y diagramación (donde además de corregir ser dan tips de publi)"
+                },
+                "¿Cómo obtengo Canva Pro?": {
+                  "respuesta": "Con este link:\n https://www.canva.com/brand/join?token=a_T9Fk1I9ALnejpjDOSgQw&brandingVariant=edu&referrer=team-invite"
+                },
+                "¿Tenemos que tener algún esquema de colores? ¿o de tipografías?": {
+                  "respuesta": "No, se pueden guiar con el manual de marca de la OE, pero cada comité es independiente en la línea gráfica que van a tener"
                 }
               }
             },
-            "Capacitacion de publicidad": {
+            "Uso de cámaras": {
               "sub-subopciones": {
-                "¿Cuando es la capacitacion": {
-                  "respuesta": "La capacitacion para directores de publicidad sera el sabado 20 de Febrero a las 8am en el 38-110"
+                "¿Cómo se reservan las cámaras?": {
+                  "respuesta": "Preguntale a tu logístico, ya que esto es tarea de él y tuya"
                 },
-                "¿Tengo que llevar computador?": {
-                  "respuesta": "Claramente"
+                "¿Donde encuentro las SDs?": {
+                  "respuesta": "Recuerda primero avisarle a la VP que quieres usar una SD de la OE y cuando para que ella te pueda decir donde estan y cuales estan disponibles"
                 }
               }
             }
@@ -302,13 +330,34 @@
                 }
               }
             },
-            "Capacitacion de GH": {
+            "Alimentación": {
               "sub-subopciones": {
-                "¿Cuando es la capacitacion para comítes?": {
-                  "respuesta": "La capacitacion para directores de GH sera el sabado 20 de Febrero a las 8am en el 38-110."
+                "Cuando es la capacitaíon para macroeventos?": {
+                  "respuesta": ""
                 },
                 "¿Cuando es la capacitaíon para macroeventos?": {
-                  "respuesta": "La capacitacion para directores de GH sera el jueves 29 de Marzo a las 6pm en el 29-201."
+                  "respuesta": "El artículo 30: de la alimentación en los eventos"
+                },
+                "¿Cuántas horas de GAP diarias se necesitan para recibir refrigerio?": {
+                  "respuesta": "A partir de 3 horas"
+                },
+                "¿Cuántas horas de GAP diarias se necesitan para recibir almuerzo?": {
+                  "respuesta": "Entre 6 y 7 horas"
+                },
+                "¿Cuántas horas de GAP diarias se necesitan para recibir almuerzo y refrigerio?": {
+                  "respuesta": "A partir de 7 horas"
+                },
+                "¿Cuántas horas de GAP diarias se necesitan para recibir almuerzo y 2 refrigerios?": {
+                  "respuesta": "A partir de 9 horas"
+                },
+                "¿Los turnos son acumulables entre días?": {
+                  "respuesta": "No, la alimentación será brindada siempre y cuando estas horas de GAP se realicen en un mismo día"
+                },
+                "¿Si ya entregué Aval de GH y alguien más ingresa el GAP de último momento, ¿Debo garantizarle alimentación?": {
+                  "respuesta": "No, solo se le garantizará alimentación al GAP inscrito dentro de los plazos establecidos por el director de GH. En caso de que alguien más ingrese debe realizarse la aclaración de que no necesariamente se le brindará alimentación."
+                },
+                "¿Se puede brindar alimentación por patrocinio?": {
+                  "respuesta": "Sí, siempre y cuando sea completa, puede brindarse alimentación por medio de patrocinio o presupuesto."
                 }
               }
             }
@@ -319,7 +368,7 @@
         "Asambleas": {
           "subopciones": {
             "Actas creativas": {
-              "respuesta": "Aca te dejo el link del privado de la OE, donde vas a poder encontrar las actas didacticas.\n https://www.instagram.com/oeestoesprivado/"
+              "respuesta": "Aca te dejo el link del privado de la OE, donde vas a poder encontrar el destacado con las actas creativas.\n https://www.instagram.com/oeestoesprivado/"
             },
             "Actas formales": {
               "respuesta": "Aca te mando el link del one drive donde vas a poder encontrar todas las actas formales de lo que se lleva del año. \n https://eafit-my.sharepoint.com/:f:/g/personal/oe_eafit_edu_co/Ep1qdxsjivFPqIjWrmnFlvMBkdkyqV6WfTF23MM59J_rNg?e=bmlOgC"
